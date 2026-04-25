@@ -14,46 +14,7 @@
 
 </div>
 
----
-
-## 🧑‍💻 About Me
-
-```dart
-class MohammedAbdullah extends FlutterDeveloper {
-  final String name     = 'Mohammed Abdullah';
-  final String role     = 'Flutter Developer @ Tech Ocean & PixellCode';
-  final String email    = 'mohammedragehzxz@gmail.com';
-  final String location = '📍 Cairo, Egypt (Ready to Relocate)';
-  final double yearsXP  = 2.0;
-  final int    apps     = 10; // and counting...
-
-  List<String> superpowers = [
-    '📱 Flutter & Dart',
-    '🏗️ Clean Architecture + DDD',
-    '🔄 BLoC / Cubit / Riverpod / GetX',
-    '🔥 Firebase + REST APIs',
-    '🚀 CI/CD with Fastlane & GitHub Actions',
-    '🗺️ Google Maps + Real-time Tracking',
-    '📞 Agora Voice/Video Calls',
-    '💳 Payment Gateway Integration',
-  ];
-
-  String motto() => '🎯 Build scalable. Ship fast. Delight users.';
-}
-```
-
----
-
-## 🌐 Connect With Me
-
-<div align="center">
-
-[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=About.me&logoColor=white)](https://mohammedzxz712.github.io/portfolio)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mohammedrageh)
-[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Mohammedzxz712)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mohammedragehzxz@gmail.com)
-[![Phone](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/201553987674)
-
+<img width="1358" height="2556" alt="image" src="https://github.com/user-attachments/assets/9952ab63-75e8-476a-9e81-a96ec601ce57" />
 </div>
 
 ---
