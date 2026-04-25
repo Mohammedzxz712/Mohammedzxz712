@@ -196,15 +196,49 @@
 
 ---
 
-## 📊 GitHub Stats
+## 🐍 Contribution Snake
 
 <div align="center">
 
-[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Mohammedzxz712&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=A177F7&icon_color=F8D866&text_color=FFFFFF&ring_color=A177F7)](https://github.com/Mohammedzxz712)
+<img src="https://raw.githubusercontent.com/Mohammedzxz712/Mohammedzxz712/output/snake.svg" alt="Snake animation" />
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Mohammedzxz712&theme=radical&hide_border=true&background=0D1117&stroke=A177F7&ring=A177F7&fire=F8D866&currStreakLabel=FFFFFF&sideLabels=FFFFFF&currStreakNum=F8D866&sideNums=F8D866)](https://github.com/Mohammedzxz712)
+</div>
 
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Mohammedzxz712&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=A177F7&text_color=FFFFFF)](https://github.com/Mohammedzxz712)
+---
+
+## 📈 Profile Views + Activity
+
+<div align="center">
+
+<img src="https://komarev.com/ghpvc/?username=Mohammedzxz712&label=Profile%20Views&color=blueviolet&style=for-the-badge" />
+
+<img src="https://img.shields.io/github/followers/Mohammedzxz712?label=Followers&style=for-the-badge&color=blueviolet" />
+
+<img src="https://img.shields.io/github/stars/Mohammedzxz712?affiliations=OWNER&style=for-the-badge&color=blueviolet" />
+
+</div>
+
+---
+
+## ⚡ Fun Animated Section
+
+<div align="center">
+
+<img src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" width="500"/>
+
+</div>
+
+---
+
+## 🚀 Alternative Modern Stats Style
+
+<div align="center">
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Mohammedzxz712&theme=tokyonight" />
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Mohammedzxz712&theme=tokyonight" />
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Mohammedzxz712&theme=tokyonight" />
 
 </div>
 
