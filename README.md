@@ -213,21 +213,6 @@
 
 </div>
 
----
-
-## 👀 Profile Views & Social Stats
-
-<div align="center">
-
-![](https://komarev.com/ghpvc/?username=Mohammedzxz712&label=Profile+Views&color=7A3EF3&style=for-the-badge)
-
-![](https://img.shields.io/github/followers/Mohammedzxz712?label=Followers&style=for-the-badge&color=7A3EF3)
-
-![](https://img.shields.io/github/stars/Mohammedzxz712?affiliations=OWNER&style=for-the-badge&color=7A3EF3)
-
-</div>
-
----
 
 ## ⚡ Coding Mood
 
@@ -263,29 +248,11 @@ src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-langu
 width="47%" 
 />
 
-</div>
-
----
-
 ## 🏆 GitHub Trophies
 
 <div align="center">
 
-<img 
-src="https://github-profile-trophy.vercel.app/?username=Mohammedzxz712&theme=tokyonight&no-frame=true&no-bg=true&margin-w=8&row=1&column=6" 
-/>
-
-</div>
-
----
-
----
-
-## 🏆 GitHub Trophies
-
-<div align="center">
-
-[![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=Mohammedzxz712&theme=radical&no-frame=true&no-bg=true&row=1&column=7&margin-w=15&margin-h=15)](https://github.com/Mohammedzxz712)
+[![trophy](https://github-profile-trophy.vercel.app/?username=Mohammedzxz712&theme=tokyonight&no-frame=true&no-bg=true&margin-w=10&row=1&column=6)](https://github.com/Mohammedzxz712)
 
 </div>
 
@@ -295,7 +262,7 @@ src="https://github-profile-trophy.vercel.app/?username=Mohammedzxz712&theme=tok
 
 <div align="center">
 
-![Snake animation](https://github.com/Mohammedzxz712/Mohammedzxz712/raw/main/github-contribution-grid-snake.svg)
+![Snake animation](https://raw.githubusercontent.com/Mohammedzxz712/Mohammedzxz712/output/github-contribution-grid-snake-dark.svg)
 
 </div>
 
