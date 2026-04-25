@@ -1,285 +1,240 @@
 <div align="center">
 
-# Hi 👋, I'm Mohammed Abdullah
+<!-- Animated Header Banner -->
+[![Header](https://capsule-render.vercel.app/api?type=venom&color=gradient&customColorList=6,11,20&height=300&section=header&text=Mohammed%20Abdullah&fontSize=70&fontColor=fff&animation=twinkling&fontAlignY=35&desc=Flutter%20Developer%20%7C%20Mobile%20Engineer%20%7C%20Code%20Craftsman&descSize=18&descColor=A177F7&descAlignY=55)](https://github.com/Mohammedzxz712)
 
-### Flutter Developer | Mobile App Engineer | Clean Architecture Enthusiast 🚀
+<!-- Typing Animation -->
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=A177F7&center=true&vCenter=true&multiline=true&repeat=true&random=false&width=800&height=100&lines=%F0%9F%93%B1+Flutter+Developer+%40+Tech+Ocean+%2B+PixellCode;%F0%9F%8E%AF+10%2B+Real-World+Apps+Delivered;%F0%9F%9A%80+Clean+Architecture+%E2%80%A2+BLoC+%E2%80%A2+CI%2FCD)](https://git.io/typing-svg)
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=00C2FF&center=true&vCenter=true&width=700&lines=Flutter+Developer;2%2B+Years+of+Experience;Clean+Architecture+%7C+Bloc+%7C+Firebase;Building+Scalable+Mobile+Applications;Always+Learning+New+Technologies" />
-
----
-
-### 🌍 Connect with Me
-
-<a href="https://www.linkedin.com/in/mohammedrageh" target="_blank">
-<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
-</a>
-
-<a href="mailto:mohammedragehzxz@gmail.com">
-<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-</a>
-
-<a href="https://github.com/Mohammedzxz712" target="_blank">
-<img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />
-</a>
-
-<a href="https://mohammedzxz712.github.io/portfolio" target="_blank">
-<img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=firefox&logoColor=white" />
-</a>
-
----
-
-### 📍 Location
-
-Cairo, Egypt 🇪🇬  
-Open to Remote Work & Relocation
+<!-- Badges -->
+![Focus](https://img.shields.io/badge/Focus-Mobile%20Development-A177F7?style=for-the-badge&labelColor=0D1117)
+![Lives](https://img.shields.io/badge/Lives-Egypt-F85D7F?style=for-the-badge&labelColor=0D1117)
+![Experience](https://img.shields.io/badge/Experience-2%2B%20Years-5BCEFA?style=for-the-badge&labelColor=0D1117)
+![Apps](https://img.shields.io/badge/Apps-10%2B%20Shipped-F8D866?style=for-the-badge&labelColor=0D1117)
 
 </div>
 
 ---
 
-# 👨‍💻 About Me
+## 🧑‍💻 About Me
 
-🎓 Computer Science Graduate from Assiut University
+```dart
+class MohammedAbdullah extends FlutterDeveloper {
+  final String name     = 'Mohammed Abdullah';
+  final String role     = 'Flutter Developer @ Tech Ocean & PixellCode';
+  final String email    = 'mohammedragehzxz@gmail.com';
+  final String location = '📍 Cairo, Egypt (Ready to Relocate)';
+  final double yearsXP  = 2.0;
+  final int    apps     = 10; // and counting...
 
-📱 Flutter Developer with 2+ years of hands-on experience
+  List<String> superpowers = [
+    '📱 Flutter & Dart',
+    '🏗️ Clean Architecture + DDD',
+    '🔄 BLoC / Cubit / Riverpod / GetX',
+    '🔥 Firebase + REST APIs',
+    '🚀 CI/CD with Fastlane & GitHub Actions',
+    '🗺️ Google Maps + Real-time Tracking',
+    '📞 Agora Voice/Video Calls',
+    '💳 Payment Gateway Integration',
+  ];
 
-🚀 Built 10+ real-world mobile applications for local & international clients
-
-🏗 Specialized in scalable apps using:
-- Clean Architecture
-- Domain-Driven Design (DDD)
-- Bloc / Cubit
-- Firebase
-- REST APIs
-- CI/CD Pipelines
-
-💡 Passionate about building production-ready applications with great UX and maintainable code
-
----
-
-# 🔥 Currently Working On
-
-- Large Scale Flutter Applications
-- BLE + IoT Medical Projects
-- Real-time Apps using Firebase
-- CI/CD Automation using Fastlane & GitHub Actions
-- Multi-environment Flutter Flavors
-- DevOps Learning Journey for Mobile Engineers
+  String motto() => '🎯 Build scalable. Ship fast. Delight users.';
+}
+```
 
 ---
 
-# 🛠 Tech Stack
-
-## 🚀 Mobile Development
-
-<p>
-<img src="https://skillicons.dev/icons?i=flutter,dart,firebase,androidstudio" />
-</p>
-
----
-
-## 🧠 Programming Languages
-
-<p>
-<img src="https://skillicons.dev/icons?i=dart,cpp,java,python,cs,php,go" />
-</p>
-
----
-
-## ⚙ Backend & Database
-
-<p>
-<img src="https://skillicons.dev/icons?i=firebase,mongodb,mysql" />
-</p>
-
-- SQLite (Sqflite)
-- Hive
-- REST APIs
-
----
-
-## 🧩 State Management
-
-- Bloc
-- Cubit
-- Provider
-- Riverpod
-- GetX
-
----
-
-## 🚀 DevOps & CI/CD
-
-<p>
-<img src="https://skillicons.dev/icons?i=github,git,firebase" />
-</p>
-
-- Fastlane
-- GitHub Actions
-- TestFlight
-- Firebase App Distribution
-
----
-
-# 💼 Professional Experience
-
-## Tech Ocean (3i-Vision)
-
-### Flutter Developer  
-📅 Feb 2025 — Present
-
-- Building large-scale Flutter apps using Clean Architecture + DDD
-- Managing state using Cubit & Bloc
-- REST API + Firebase integrations
-- Real-time scalable app development
-- Agile teamwork with backend & design teams
-
----
-
-## PixellCode
-
-### Flutter Developer (Part-time Remote)  
-📅 May 2025 — Present
-
-- Maps integration + live tracking
-- Agora voice/video calls
-- Job listing & application workflow
-- Integrated bank payment systems
-
----
-
-## Arrow Tech
-
-### Flutter Developer  
-📅 Aug 2023 — Dec 2024
-
-- Flutter application development
-- Clean Architecture implementation
-- Firebase + REST APIs
-- Provider + Bloc state management
-
----
-
-# 🚀 Featured Projects
-
-## 🔐 Aramco App (Private)
-
-Enterprise-level secure data management app for Saudi Aramco
-
-### Features:
-- Sample registration
-- Camera scanning
-- Local SQLite storage
-- Excel export + printing
-- Backup system
-- Zebra devices integration
-
----
-
-## 🧠 DataMind Agent
-
-Available on App Store & Play Store
-
-### Discover. Classify. Manage. Protect.
-
-- Smart mobile file manager
-- Intelligent file classification
-- Hidden file discovery
-- Smart keyword analysis
-
----
-
-## 💼 R7 App
-
-Smart Job Marketplace App
-
-### Features:
-- Maps + live tracking
-- Agora voice/video calls
-- In-app bank payments
-- Arabic + English support
-- Job workflow from apply → approval → payment
-
----
-
-## 🐑 Adahi
-
-Available on Play Store
-
-Smart Eid Al-Adha companion app
-
-- Udhiyah validation
-- Animal health checks
-- Disease detection
-
----
-
-## 🐾 Yama Vet
-
-Available on App Store
-
-Pet medical care from home
-
-- Doctor request system
-- Home medical support
-- Veterinary consultations
-
----
-
-# 📊 GitHub Stats
+## 🌐 Connect With Me
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Mohammedzxz712&show_icons=true&theme=tokyonight&hide_border=true" />
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mohammedzxz712&layout=compact&theme=tokyonight&hide_border=true" />
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Mohammedzxz712&theme=tokyonight&hide_border=true" />
+[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=About.me&logoColor=white)](https://mohammedzxz712.github.io/portfolio)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mohammedrageh)
+[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Mohammedzxz712)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mohammedragehzxz@gmail.com)
+[![Phone](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/201553987674)
 
 </div>
 
 ---
 
-# 🏆 GitHub Trophies
+## 🚀 Tech Arsenal
+
+### 📱 Mobile & Frameworks
+![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
+![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)
+![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)
+![iOS](https://img.shields.io/badge/iOS-000000?style=for-the-badge&logo=ios&logoColor=white)
+
+### 🏗️ Architecture & State Management
+![Clean Architecture](https://img.shields.io/badge/Clean_Architecture-A177F7?style=for-the-badge&logoColor=white)
+![BLoC](https://img.shields.io/badge/BLoC-FF6584?style=for-the-badge&logoColor=white)
+![Cubit](https://img.shields.io/badge/Cubit-02569B?style=for-the-badge&logoColor=white)
+![Riverpod](https://img.shields.io/badge/Riverpod-00BCD4?style=for-the-badge&logoColor=white)
+![GetX](https://img.shields.io/badge/GetX-9C27B0?style=for-the-badge&logoColor=white)
+![Provider](https://img.shields.io/badge/Provider-4CAF50?style=for-the-badge&logoColor=white)
+
+### 🔥 Backend & Databases
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
+![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
+![SQLite](https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white)
+![Hive](https://img.shields.io/badge/Hive-FF7043?style=for-the-badge&logoColor=white)
+![REST API](https://img.shields.io/badge/REST_API-02569B?style=for-the-badge&logo=fastapi&logoColor=white)
+
+### 🛠️ Languages
+![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white)
+![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
+
+### ⚙️ DevOps & CI/CD
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)
+![Fastlane](https://img.shields.io/badge/Fastlane-00F200?style=for-the-badge&logo=fastlane&logoColor=white)
+![Firebase Distribution](https://img.shields.io/badge/Firebase_Distribution-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
+![TestFlight](https://img.shields.io/badge/TestFlight-0D96F6?style=for-the-badge&logo=apple&logoColor=white)
+
+### 🔌 Integrations
+![Google Maps](https://img.shields.io/badge/Google_Maps-4285F4?style=for-the-badge&logo=googlemaps&logoColor=white)
+![Agora](https://img.shields.io/badge/Agora-099DFD?style=for-the-badge&logoColor=white)
+![FCM](https://img.shields.io/badge/FCM_Push_Notifications-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
+![Stripe](https://img.shields.io/badge/Payment_Gateways-008CDD?style=for-the-badge&logo=stripe&logoColor=white)
+
+---
+
+## 💼 Professional Experience
+
+<table>
+<tr>
+<td width="50%">
+
+### 🏢 Tech Ocean (3i-Vision)
+**Flutter Developer · Full-time**
+📅 *February 2025 – Present*
+
+- Building large-scale Flutter apps with **Clean Architecture & DDD**
+- State management using **Cubit** and **BLoC**
+- Integrating **REST APIs** and **Firebase** for real-time features
+- Working in **Agile teams** alongside designers and backend developers
+
+</td>
+<td width="50%">
+
+### 🏢 PixellCode
+**Flutter Developer · Part-time, Remote**
+📅 *May 2025 – Present*
+
+- Building a large-scale app with **Google Maps** + real-time tracking
+- **Agora** voice/video call integration
+- Job listing, application & approval workflows
+- **Bank payment** integration for in-app payouts
+
+</td>
+</tr>
+<tr>
+<td colspan="2">
+
+### 🏢 Arrow Tech
+**Flutter Developer · Full-time**
+📅 *August 2023 – December 2024*
+
+- Designed and maintained production Flutter applications
+- Applied **Clean Architecture** for scalable, maintainable codebases
+- Integrated **REST APIs**, **Firebase**, and implemented **Provider & BLoC** state management
+
+</td>
+</tr>
+</table>
+
+---
+
+## 📱 Featured Projects
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=Mohammedzxz712&theme=tokyonight&no-frame=true&row=1&column=7" />
+| Project | Status | Description |
+|:---|:---:|:---|
+| 🛡️ **Aramco App** | `Private` | Enterprise data management for Saudi Aramco — SQLite storage, Zebra devices, Excel export & backup |
+| 🧠 **DataMind Agent** | `App Store & Play Store` | Intelligent mobile file manager — scan, classify & manage device files with smart keyword analysis |
+| 🗺️ **R7 App** | `In Testing` | Smart job marketplace — maps, Agora calls, bank payments, Arabic & English support |
+| 🐑 **Adahi** | `Play Store` | Eid al-Adha companion — validates sacrifice animals per Islamic guidelines, health checks |
+| 🐾 **Yama Vet** | `App Store` | On-demand pet medical care — request home vet visits anytime |
+| 📚 **Educational App** | `Private` | Interactive learning platform for students & teachers — Firebase + Flutter + REST APIs |
+| 🏠 **Home Services App** | `Delivered` | On-demand cleaning, maintenance & beauty services platform |
+| ❤️ **Charity App** | `Delivered` | Donation platform connecting charities with donors — payment gateway + Firebase |
 
 </div>
 
 ---
 
-# 🎓 Education
+## 📊 GitHub Stats
 
-## Bachelor's Degree in Computer and Information Science
+<div align="center">
 
-### Assiut University
+[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Mohammedzxz712&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=A177F7&icon_color=F8D866&text_color=FFFFFF&ring_color=A177F7)](https://github.com/Mohammedzxz712)
 
-📅 Graduation: June 2024
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Mohammedzxz712&theme=radical&hide_border=true&background=0D1117&stroke=A177F7&ring=A177F7&fire=F8D866&currStreakLabel=FFFFFF&sideLabels=FFFFFF&currStreakNum=F8D866&sideNums=F8D866)](https://github.com/Mohammedzxz712)
 
-🎯 GPA: 3.19  
-🏅 Grade: Very Good
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Mohammedzxz712&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=A177F7&text_color=FFFFFF)](https://github.com/Mohammedzxz712)
+
+</div>
 
 ---
 
-# 🤝 Let's Connect
+## 🏆 GitHub Trophies
 
-I’m always open for:
+<div align="center">
 
-- Flutter Opportunities
-- Full-time Roles
-- Remote Work
-- Freelance Projects
-- Startup Collaborations
-- International Relocation
+[![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=Mohammedzxz712&theme=radical&no-frame=true&no-bg=true&row=1&column=7&margin-w=15&margin-h=15)](https://github.com/Mohammedzxz712)
+
+</div>
+
+---
+
+## 🐍 Contribution Snake
+
+<div align="center">
+
+![Snake animation](https://github.com/Mohammedzxz712/Mohammedzxz712/raw/main/github-contribution-grid-snake.svg)
+
+</div>
+
+---
+
+## 🎓 Education
+
+<div align="center">
+
+| 🎓 Degree | 🏛️ University | 📅 Graduation | ⭐ GPA |
+|:---:|:---:|:---:|:---:|
+| Bachelor's in Computer & Information Science | Assiut University | June 2024 | 3.19 — Very Good |
+
+</div>
+
+---
+
+## 🤝 Open For
+
+<div align="center">
+
+![Full-time](https://img.shields.io/badge/✅_Full--time_Roles-A177F7?style=for-the-badge)
+![Remote](https://img.shields.io/badge/✅_Remote_Work-02569B?style=for-the-badge)
+![Freelance](https://img.shields.io/badge/✅_Freelance_Projects-F85D7F?style=for-the-badge)
+![Relocation](https://img.shields.io/badge/✅_International_Relocation-F8D866?style=for-the-badge&labelColor=0D1117)
+![Startups](https://img.shields.io/badge/✅_Startup_Collaborations-5BCEFA?style=for-the-badge)
+
+</div>
 
 ---
 
 <div align="center">
 
-### Thanks for visiting my profile ❤️
+[![Footer](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer&text=Let's%20Build%20Something%20Amazing!%20🚀&fontSize=24&fontColor=fff&animation=twinkling&fontAlignY=65)](https://github.com/Mohammedzxz712)
 
-### Let's build something amazing 🚀
+*⚡ "First, solve the problem. Then, write the code." – John Johnson*
+
+**Thanks for visiting! Drop a ⭐ if you like my work!**
 
 </div>
