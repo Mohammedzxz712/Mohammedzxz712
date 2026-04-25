@@ -1,278 +1,252 @@
-# Mohammed Abdullah
-
 <div align="center">
 
-### Flutter Developer | Mobile Application Engineer
+# Hi 👋, I'm Mohammed Abdullah
 
-📍 Cairo, Egypt *(Ready to Relocate)*  
-📧 mohammedragehzxz@gmail.com  
-📞 +20 155 398 7674 | +20 111 140 0729  
+### Flutter Developer | Mobile App Engineer | Clean Architecture Enthusiast 🚀
 
-🔗 [LinkedIn](https://www.linkedin.com/in/mohammedrageh)  
-🔗 [GitHub](https://github.com/Mohammedzxz712)  
-🔗 [Portfolio](https://mohammedzxz712.github.io/portfolio)
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=00C2FF&center=true&vCenter=true&width=700&lines=Flutter+Developer;2%2B+Years+of+Experience;Clean+Architecture+%7C+Bloc+%7C+Firebase;Building+Scalable+Mobile+Applications;Always+Learning+New+Technologies" />
+
+---
+
+### 🌍 Connect with Me
+
+<a href="https://www.linkedin.com/in/mohammedrageh" target="_blank">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
+
+<a href="mailto:mohammedragehzxz@gmail.com">
+<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+</a>
+
+<a href="https://github.com/Mohammedzxz712" target="_blank">
+<img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />
+</a>
+
+<a href="https://mohammedzxz712.github.io/portfolio" target="_blank">
+<img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=firefox&logoColor=white" />
+</a>
+
+---
+
+### 📍 Location
+
+Cairo, Egypt 🇪🇬  
+Open to Remote Work & Relocation
 
 </div>
 
 ---
 
-## 👨‍💻 Professional Summary
+# 👨‍💻 About Me
 
-Computer Science graduate from Assiut University with over **2 years of hands-on experience** in Flutter application development.
+🎓 Computer Science Graduate from Assiut University
 
-I have successfully contributed to and delivered **10+ real-world mobile applications** for both local and international clients, focusing on building scalable, high-performance, and user-centric solutions.
+📱 Flutter Developer with 2+ years of hands-on experience
 
-I specialize in:
+🚀 Built 10+ real-world mobile applications for local & international clients
 
-- Flutter & Dart Development
-- Clean Architecture & Domain-Driven Design (DDD)
-- REST API Integration
-- Firebase Services
-- State Management (Bloc, Cubit, Provider, Riverpod, GetX)
-- CI/CD Automation
-- Real-time Applications
-- Offline-first Systems using SQLite & Local Storage
+🏗 Specialized in scalable apps using:
+- Clean Architecture
+- Domain-Driven Design (DDD)
+- Bloc / Cubit
+- Firebase
+- REST APIs
+- CI/CD Pipelines
 
-Passionate about building modern digital products with maintainable code, excellent UX, and production-ready architecture.
+💡 Passionate about building production-ready applications with great UX and maintainable code
 
 ---
 
-# 🚀 Technical Skills
+# 🔥 Currently Working On
 
-## Mobile Development
+- Large Scale Flutter Applications
+- BLE + IoT Medical Projects
+- Real-time Apps using Firebase
+- CI/CD Automation using Fastlane & GitHub Actions
+- Multi-environment Flutter Flavors
+- DevOps Learning Journey for Mobile Engineers
 
-- Flutter
-- Dart
-- Android & iOS Deployment
-- Multi-environment Builds (Flutter Flavors)
+---
 
-## Backend & Frameworks
+# 🛠 Tech Stack
 
-- ASP.NET
+## 🚀 Mobile Development
 
-## Programming Languages
+<p>
+<img src="https://skillicons.dev/icons?i=flutter,dart,firebase,androidstudio" />
+</p>
 
-- Dart  
-- C++  
-- Java  
-- Python  
-- C#  
-- R  
-- Go  
-- PHP
+---
 
-## Architecture
+## 🧠 Programming Languages
 
-- Clean Architecture  
-- Domain-Driven Design (DDD)
+<p>
+<img src="https://skillicons.dev/icons?i=dart,cpp,java,python,cs,php,go" />
+</p>
 
-## State Management
+---
 
-- Bloc  
-- Cubit  
-- Provider  
-- Riverpod  
+## ⚙ Backend & Database
+
+<p>
+<img src="https://skillicons.dev/icons?i=firebase,mongodb,mysql" />
+</p>
+
+- SQLite (Sqflite)
+- Hive
+- REST APIs
+
+---
+
+## 🧩 State Management
+
+- Bloc
+- Cubit
+- Provider
+- Riverpod
 - GetX
 
-## Databases
+---
 
-- Firebase  
-- SQLite (Sqflite)  
-- Hive  
-- MongoDB
+## 🚀 DevOps & CI/CD
 
-## Integrations
+<p>
+<img src="https://skillicons.dev/icons?i=github,git,firebase" />
+</p>
 
-- REST APIs  
-- Google Maps  
-- FCM Notifications  
-- Payment Gateways  
-- Agora Voice/Video Calls  
-- Zebra Devices Integration
-
-## DevOps & CI/CD
-
-- Fastlane  
-- GitHub Actions  
-- Firebase Distribution  
-- TestFlight  
-- CI/CD Pipelines
+- Fastlane
+- GitHub Actions
+- TestFlight
+- Firebase App Distribution
 
 ---
 
 # 💼 Professional Experience
 
----
-
 ## Tech Ocean (3i-Vision)
 
 ### Flutter Developer  
-📅 February 2025 – Present
+📅 Feb 2025 — Present
 
-### Responsibilities
-
-- Building large-scale Flutter applications using **Clean Architecture** and **DDD**
-- Managing application state using **Cubit** and **BLoC**
-- Integrating REST APIs and Firebase services
-- Developing real-time features and scalable mobile solutions
-- Collaborating within Agile teams alongside designers and backend developers
+- Building large-scale Flutter apps using Clean Architecture + DDD
+- Managing state using Cubit & Bloc
+- REST API + Firebase integrations
+- Real-time scalable app development
+- Agile teamwork with backend & design teams
 
 ---
 
 ## PixellCode
 
-### Flutter Developer (Part-time, Remote)  
-📅 May 2025 – Present
+### Flutter Developer (Part-time Remote)  
+📅 May 2025 — Present
 
-### Responsibilities
-
-- Developing a large-scale application with:
-  - Google Maps integration
-  - Real-time location tracking
-  - Agora voice/video communication
-- Implementing complete job listing and application workflows
-- Building payment flow integrations with banking systems
-- Supporting approval and payout processes inside the app
+- Maps integration + live tracking
+- Agora voice/video calls
+- Job listing & application workflow
+- Integrated bank payment systems
 
 ---
 
 ## Arrow Tech
 
 ### Flutter Developer  
-📅 August 2023 – December 2024
+📅 Aug 2023 — Dec 2024
 
-### Responsibilities
-
-- Designed, developed, and maintained Flutter applications
-- Applied Clean Architecture for scalable and maintainable codebases
-- Integrated REST APIs and Firebase services
-- Implemented Provider and BLoC for state management
-- Built dynamic, production-ready mobile applications
+- Flutter application development
+- Clean Architecture implementation
+- Firebase + REST APIs
+- Provider + Bloc state management
 
 ---
 
-# 📱 Featured Projects
+# 🚀 Featured Projects
 
----
+## 🔐 Aramco App (Private)
 
-## Aramco App  
-### Private Company Project – Not Public
+Enterprise-level secure data management app for Saudi Aramco
 
-A secure enterprise data management application built for **Saudi Aramco**.
-
-### Features
-
-- Sample registration system
-- Camera scanning functionality
-- Large-scale local data storage using SQLite
-- Excel export and printing
-- Data import and synchronization
-- Full application backup system
+### Features:
+- Sample registration
+- Camera scanning
+- Local SQLite storage
+- Excel export + printing
+- Backup system
 - Zebra devices integration
 
-> Due to company confidentiality, this project is not publicly available.
-
 ---
 
-## DataMind Agent  
-### Available on App Store & Play Store
+## 🧠 DataMind Agent
+
+Available on App Store & Play Store
 
 ### Discover. Classify. Manage. Protect.
 
-An intelligent mobile file manager that helps users:
-
-- Scan and discover hidden files
-- Organize scattered documents
-- Classify files using smart keyword analysis
-- Manage mobile storage efficiently
-- Improve device file accessibility and security
+- Smart mobile file manager
+- Intelligent file classification
+- Hidden file discovery
+- Smart keyword analysis
 
 ---
 
-## R7 App  
-### Currently in Testing
+## 💼 R7 App
 
-A smart job marketplace application featuring:
+Smart Job Marketplace App
 
-- Integrated maps & live tracking
+### Features:
+- Maps + live tracking
 - Agora voice/video calls
-- In-app bank payment systems
-- Arabic & English multilingual support
-- Job listing, application, approval, and payment workflows
+- In-app bank payments
+- Arabic + English support
+- Job workflow from apply → approval → payment
 
 ---
 
-## Adahi  
-### Available on Play Store
+## 🐑 Adahi
 
-A smart companion for **Eid al-Adha** helping users select healthy and suitable sacrifice animals according to Islamic guidelines.
+Available on Play Store
 
-### Features
+Smart Eid Al-Adha companion app
 
 - Udhiyah validation
 - Animal health checks
-- Disease/disqualification detection
-- Easy-to-use educational workflow
+- Disease detection
 
 ---
 
-## Yama Vet  
-### Available on App Store
+## 🐾 Yama Vet
 
-A veterinary healthcare application that allows users to request medical care for pets from home.
+Available on App Store
 
-### Features
+Pet medical care from home
 
 - Doctor request system
-- Home medical care services
-- Emergency consultation support
+- Home medical support
+- Veterinary consultations
 
 ---
 
-## Educational App  
-### Private School Project – Not Public
+# 📊 GitHub Stats
 
-An educational platform for students and teachers with interactive learning tools.
+<div align="center">
 
-### Technologies
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Mohammedzxz712&show_icons=true&theme=tokyonight&hide_border=true" />
 
-- Flutter
-- Firebase
-- REST APIs
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mohammedzxz712&layout=compact&theme=tokyonight&hide_border=true" />
 
-### Features
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Mohammedzxz712&theme=tokyonight&hide_border=true" />
 
-- Real-time communication
-- Student-teacher interaction
-- Educational content management
+</div>
 
 ---
 
-## Home Services App
+# 🏆 GitHub Trophies
 
-An on-demand services platform for:
+<div align="center">
 
-- Cleaning
-- Maintenance
-- Beauty services
+<img src="https://github-profile-trophy.vercel.app/?username=Mohammedzxz712&theme=tokyonight&no-frame=true&row=1&column=7" />
 
-### Contributions
-
-- Built scalable UI components
-- API integrations
-- Service request workflows
-
----
-
-## Charity App
-
-A platform connecting charity organizations with donors.
-
-### Features
-
-- Donation campaign management
-- Secure payment gateway integration
-- Firebase-powered real-time operations
+</div>
 
 ---
 
@@ -284,42 +258,28 @@ A platform connecting charity organizations with donors.
 
 📅 Graduation: June 2024
 
-### Academic Performance
-
-**GPA:** 3.19  
-**Grade:** Very Good
-
----
-
-# 📈 GitHub Highlights
-
-- 10+ Production Projects
-- Enterprise Mobile Solutions
-- Offline-first Architecture
-- BLE & Hardware Integration
-- Firebase + REST API Hybrid Systems
-- CI/CD Production Deployment
-- Scalable Flutter Architecture
+🎯 GPA: 3.19  
+🏅 Grade: Very Good
 
 ---
 
 # 🤝 Let's Connect
 
-I am always open to:
+I’m always open for:
 
 - Flutter Opportunities
-- Remote Work
 - Full-time Roles
+- Remote Work
 - Freelance Projects
 - Startup Collaborations
-- International Relocation Opportunities
-
-Feel free to connect with me on LinkedIn or explore my work on GitHub.
+- International Relocation
 
 ---
 
 <div align="center">
 
-### Thank you for visiting my profile 🚀
+### Thanks for visiting my profile ❤️
+
+### Let's build something amazing 🚀
 
 </div>
