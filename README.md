@@ -192,55 +192,92 @@
 | 🏠 **Home Services App** | `Delivered` | On-demand cleaning, maintenance & beauty services platform |
 | ❤️ **Charity App** | `Delivered` | Donation platform connecting charities with donors — payment gateway + Firebase |
 
-</div>
-
----
-
 ## 🐍 Contribution Snake
 
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/Mohammedzxz712/Mohammedzxz712/output/snake.svg" alt="Snake animation" />
+<picture>
+  <source
+    media="(prefers-color-scheme: dark)"
+    srcset="https://raw.githubusercontent.com/Mohammedzxz712/Mohammedzxz712/output/github-contribution-grid-snake-dark.svg"
+  />
+  <source
+    media="(prefers-color-scheme: light)"
+    srcset="https://raw.githubusercontent.com/Mohammedzxz712/Mohammedzxz712/output/github-contribution-grid-snake.svg"
+  />
+  <img
+    alt="github contribution grid snake animation"
+    src="https://raw.githubusercontent.com/Mohammedzxz712/Mohammedzxz712/output/github-contribution-grid-snake-dark.svg"
+  />
+</picture>
 
 </div>
 
 ---
 
-## 📈 Profile Views + Activity
+## 👀 Profile Views & Social Stats
 
 <div align="center">
 
-<img src="https://komarev.com/ghpvc/?username=Mohammedzxz712&label=Profile%20Views&color=blueviolet&style=for-the-badge" />
+![](https://komarev.com/ghpvc/?username=Mohammedzxz712&label=Profile+Views&color=7A3EF3&style=for-the-badge)
 
-<img src="https://img.shields.io/github/followers/Mohammedzxz712?label=Followers&style=for-the-badge&color=blueviolet" />
+![](https://img.shields.io/github/followers/Mohammedzxz712?label=Followers&style=for-the-badge&color=7A3EF3)
 
-<img src="https://img.shields.io/github/stars/Mohammedzxz712?affiliations=OWNER&style=for-the-badge&color=blueviolet" />
+![](https://img.shields.io/github/stars/Mohammedzxz712?affiliations=OWNER&style=for-the-badge&color=7A3EF3)
 
 </div>
 
 ---
 
-## ⚡ Fun Animated Section
+## ⚡ Coding Mood
 
 <div align="center">
 
-<img src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" width="500"/>
+<img 
+src="https://media.giphy.com/media/f3iwJFOVOwuy7K6FFw/giphy.gif" 
+width="450"
+/>
 
 </div>
 
 ---
 
-## 🚀 Alternative Modern Stats Style
+## 📊 Advanced GitHub Analytics
 
 <div align="center">
 
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Mohammedzxz712&theme=tokyonight" />
+<img 
+src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Mohammedzxz712&theme=tokyonight" 
+width="95%" 
+/>
 
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Mohammedzxz712&theme=tokyonight" />
+<br><br>
 
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Mohammedzxz712&theme=tokyonight" />
+<img 
+src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Mohammedzxz712&theme=tokyonight" 
+width="47%" 
+/>
+
+<img 
+src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Mohammedzxz712&theme=tokyonight" 
+width="47%" 
+/>
 
 </div>
+
+---
+
+## 🏆 GitHub Trophies
+
+<div align="center">
+
+<img 
+src="https://github-profile-trophy.vercel.app/?username=Mohammedzxz712&theme=tokyonight&no-frame=true&no-bg=true&margin-w=8&row=1&column=6" 
+/>
+
+</div>
+
+---
 
 ---
 
