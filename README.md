@@ -14,7 +14,73 @@
 
 </div>
 
-<img width="1358" height="2556" alt="image" src="https://github.com/user-attachments/assets/9952ab63-75e8-476a-9e81-a96ec601ce57" />
+---
+
+## 🧑‍💻 About Me
+
+<table>
+  <tr>
+    <td valign="top" width="50%">
+
+### 👨‍💻 Who Am I?
+- 🎓 **CS Graduate** — Assiut University, 2024 (GPA 3.19 ⭐)
+- 📍 **Cairo, Egypt** — Ready to relocate ✈️
+- 💼 **Flutter Dev** @ Tech Ocean & PixellCode
+- 📱 Delivered **10+ real-world apps** for local & international clients
+- 🏗️ Obsessed with **Clean Architecture** & **Domain-Driven Design**
+- 🔥 Passionate about scalable, high-performance mobile apps
+
+    </td>
+    <td valign="top" width="50%">
+
+### 🚀 Currently
+- 🏢 Building large-scale apps **@ Tech Ocean (3i-Vision)**
+- 🌐 Maps + Agora + Payments app **@ PixellCode (Remote)**
+- 📖 Deepening **DDD** & offline-first architecture
+- 🎯 Goal 2025: Ship more production apps & land international role
+
+### ☕ Fun Facts
+- My code compiles faster after coffee
+- 🐛 I find bugs before they find me
+- 🌙 Best commits happen after midnight
+
+    </td>
+  </tr>
+</table>
+
+<table>
+  <tr>
+    <td align="center" width="25%">
+      <img src="https://img.shields.io/badge/2%2B-Years%20XP-A177F7?style=for-the-badge" /><br/>
+      <sub>Professional Experience</sub>
+    </td>
+    <td align="center" width="25%">
+      <img src="https://img.shields.io/badge/10%2B-Apps%20Shipped-F85D7F?style=for-the-badge" /><br/>
+      <sub>Real-World Projects</sub>
+    </td>
+    <td align="center" width="25%">
+      <img src="https://img.shields.io/badge/3.19-GPA-5BCEFA?style=for-the-badge" /><br/>
+      <sub>Very Good Degree</sub>
+    </td>
+    <td align="center" width="25%">
+      <img src="https://img.shields.io/badge/2-Companies-F8D866?style=for-the-badge&labelColor=0D1117" /><br/>
+      <sub>Active Right Now</sub>
+    </td>
+  </tr>
+</table>
+
+---
+
+## 🌐 Connect With Me
+
+<div align="center">
+
+[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=About.me&logoColor=white)](https://mohammedzxz712.github.io/portfolio)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mohammedrageh)
+[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Mohammedzxz712)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mohammedragehzxz@gmail.com)
+[![Phone](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/201553987674)
+
 </div>
 
 ---
